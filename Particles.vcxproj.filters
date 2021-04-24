@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleClass.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleRenderer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleSystem.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxColorPicker.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxInputField.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator_Acc.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator_Positions.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator_Time.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator_Vel.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator_Color.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleEmitter.cpp">
+      <Filter>src\ParticleEmitters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleUpdater.cpp">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleUpdater_Collision.cpp">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleUpdater_Gravity.cpp">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleUpdater_Time.cpp">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ParticleGenerator_Flag.cpp">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ParticleGenerators">
+      <UniqueIdentifier>{18cee20f-8a22-4a53-a7b5-fb7844c68736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ParticleEmitters">
+      <UniqueIdentifier>{fec79e54-6418-4ac8-ba39-75e0c5e36f98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ParticleUpdater">
+      <UniqueIdentifier>{be3088e3-13d7-4770-b5c4-4c42296fdd51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleClass.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleRenderer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleSystem.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxColorPicker.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiUtils.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxInputField.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator_Acc.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator_Positions.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator_Time.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator_Vel.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator_Color.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleEmitter.h">
+      <Filter>src\ParticleEmitters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleUpdater.h">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleUpdater_Collision.h">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleUpdater_Gravity.h">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleUpdater_Time.h">
+      <Filter>src\ParticleUpdater</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ParticleGenerator_Flag.h">
+      <Filter>src\ParticleGenerators</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
